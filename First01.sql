@@ -9,3 +9,9 @@ insert into
 values
   (100, 'Balaji'),
   (200, 'Suji');
+
+-- COMMAND ----------
+
+insert into employee 
+values (300, 'Pranva'),
+(400, 'Ilakiyaa')
