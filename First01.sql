@@ -21,3 +21,7 @@ values (300, 'Pranva'),
 insert into employee
 values ( 500, 'Sindhu'),
 (600, 'Santhanum')
+
+insert into employee
+values ( 700, 'Seran'),
+(800, 'Sumathi');
